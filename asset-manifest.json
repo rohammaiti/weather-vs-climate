@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/weather-vs-climate/static/css/main.1eb4f073.css",
+    "main.js": "/weather-vs-climate/static/js/main.20c8e8e2.js",
+    "static/js/787.1f0594eb.chunk.js": "/weather-vs-climate/static/js/787.1f0594eb.chunk.js",
+    "static/media/asset28.jpeg": "/weather-vs-climate/static/media/asset28.b389e1d9a19056e79df5.jpeg",
+    "index.html": "/weather-vs-climate/index.html",
+    "main.1eb4f073.css.map": "/weather-vs-climate/static/css/main.1eb4f073.css.map",
+    "main.20c8e8e2.js.map": "/weather-vs-climate/static/js/main.20c8e8e2.js.map",
+    "787.1f0594eb.chunk.js.map": "/weather-vs-climate/static/js/787.1f0594eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1eb4f073.css",
+    "static/js/main.20c8e8e2.js"
+  ]
+}
